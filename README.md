@@ -31,4 +31,4 @@ Parameters restrictions:
 
 In case of incorrect data, the application returns a message with problem description.
 ## Used Technologies
-Java 11, Spring Boot, JUnit, Docker
+Java 11, Spring Boot, JUnit, Mockito, Docker
